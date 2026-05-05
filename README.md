@@ -6,7 +6,7 @@
 [![Vercel](https://img.shields.io/badge/deploy-vercel-000000?logo=vercel)](https://vercel.com/vishwajeet-kondi/fintrakr)
 
 FINTRAKR is a modern, multi-user financial portfolio tracker built with Next.js. It helps families and groups track, analyze, and manage investments across platforms with real-time analytics, secure authentication, and a user-friendly dashboard.
-
+ 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
